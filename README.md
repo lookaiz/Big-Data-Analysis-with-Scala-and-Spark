@@ -1,2 +1,2 @@
 # Big-Data-Analysis-with-Scala-and-Spark
-Mooc Coursera (Big-Data-Analysis-with-Scala-and-Spark)
+Mooc "Big Data Analysis with Scala and Spark" (Coursera)
